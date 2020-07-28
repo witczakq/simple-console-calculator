@@ -5,8 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace calculator
-{
+namespace calculator   // Program pobiera w konsoli dane od użytkownika oraz znak operatora, a następnie wykonuje obliczenie i przedstawia wynik na ekranie.
     class Program1
     {
         static void Main(string[] args)
